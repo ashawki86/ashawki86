@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Elkoly
 - 👀 I’m interested in Coding & QA
-- 🌱 I’m currently learning Web Developing 
-- 📫 You reach me on whatsapp +201015862833 ||  fb/AhmedElkholy99
-- 💞️ my first project on github || https://ashawki86.github.io/Engage-Bakery/
-- 💞️ my second project on github || https://ashawki86.github.io/French-Restaurant/
+- 🌱 I’m currently Quality Assurance  
+- 📫 You reach me on whatsapp +201551942560 ||  fb/AhmedElkholy99
+- 💞️ my first project on github || https://ashawki86.github.io/
+
